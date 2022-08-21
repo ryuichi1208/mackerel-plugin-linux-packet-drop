@@ -4,8 +4,10 @@ A mackerel plugin for measuring Linux packet loss
 
 ## Graphs and Metrics
 
-${devicename}.RxDropped
-${devicename}.TxDropped
+* ${devicename}.RxDropped
+* ${devicename}.RxErrors
+* ${devicename}.TxDropped
+* ${devicename}.TxErrors
 
 ## Reference
 
